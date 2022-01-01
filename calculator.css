@@ -1,0 +1,41 @@
+body {
+    background-color: gray;
+}
+
+#equalbutton {
+    width: 270px;
+    border: 3px;
+    border-radius: 3px;
+    padding: 20px;
+    background-color: #48d1cc;
+    border: solid black;
+}
+
+.mainpage {
+    width: 300px;
+    height: 530px;
+    margin: auto;
+    border: solid black;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+#button {
+    width: 20px;
+    background-color: #48d1cc;
+    color: black;
+    border: 3px solid black;
+    border-radius: 5px;
+    padding: 26px;
+    margin: 5px;
+    font-size: 15px;
+}
+
+#answerbox {
+    width: 270px;
+    border: 3px solid black;
+    border-radius: 2 px;
+    padding: 20px;
+    margin: auto;
+    background-color: lightgray;
+}
