@@ -17,8 +17,7 @@ function wipe() {
     This is a specific function for the button © that wipes out the inputs of the user on the answer box.
 
 The next page is my Certificates page, which has the links to the certificates I have taken from online courses. I have used the same template that I used earlier for the links, yet this time I have made some edits on the aesthetics of the button-like links to look fit for the page.
-I have learned a lot about web development these days,and I hope to continue working on my skills as I will probably join the CS50 Web Development Course soon.
-That is it for my Personal Website and Calculator project. Thank you CS50 Team!
+That is it for my Personal Website and Calculator project. 
 
 This is CS50!
 
